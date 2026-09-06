@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hello! I'm Ahmed Lutfy Batheeb</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"/></a>
-</p>
+
 
 <p align="center">
   <b>DevOps & Cloud Engineer</b>, 20 years old, passionate about building distributed infrastructure, automating workflows, and scaling reliable cloud systems.
